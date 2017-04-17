@@ -1,0 +1,10 @@
+{
+  "name": "ESPSimpleHttpClient",
+  "keywords": "http",
+  "description": "Simple HTTP Client for the ESP8266",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergos/ESPSimpleHttpClient.git"
+  },
+  "frameworks": "arduino"
+}
